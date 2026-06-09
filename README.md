@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Classification - Flask Web App
 
-This project is built as part of my **Data Science Internship at Codsoft**.  
+This project is built as part of my **Data Science learning**.  
 It is a machine learning web application that predicts the species of an Iris flower (Setosa, Versicolor, Virginica) based on user input for four flower features using a **Support Vector Machine (SVM)** model.
 -----------------------------------------
 ## 🚀 Project Overview
